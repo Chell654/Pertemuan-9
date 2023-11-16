@@ -105,7 +105,7 @@ print("Gabungan listA & ListB: \n", listN)
 
 ## Hasil program 
 
-![1](Gambar/Gambar1.png)
+<img src="gambar/gambar 1.png">
 
 ## Tugas praktikum
 Buat program sederhana untuk menambahkan data kedalam sebuah
