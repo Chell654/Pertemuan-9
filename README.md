@@ -161,4 +161,4 @@ print("+----+-----------------------+--------+--------+-------+-------+---------
 ```
 ## Hasil program
 
-![2](gambar/gambar 2.png)
+<img src="gambar/gambar 2.png">
