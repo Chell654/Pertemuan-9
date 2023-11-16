@@ -96,7 +96,7 @@ print("Mendambahkan ListB dengan 3 nilai :\n", listb,"\n")
 
 ## Hasil program
 
-<img src="gambar/gambar 2.png">
+<img src="gambar/gambar 1.png">
 
 ## Tugas praktikum
 Buat program sederhana untuk menambahkan data kedalam sebuah
