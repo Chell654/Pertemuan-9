@@ -93,15 +93,6 @@ print("ListB :\n", listb,"\n")
 listb.extend([10, 12, 14])
 print("Mendambahkan ListB dengan 3 nilai :\n", listb,"\n")
 # Menggabungkan ListA dan ListB 
-listN = lista + listb
-print("Gabungan listA & ListB: \n", listN)
-```
-`Index   0(-5),   1(-4),  2(-3),   3(-2),   4(-1)`, Sebagai tanda, contoh 4(-1) adalah element ke-4 dari lista
-
-`listb.insert(2, lista[0:2])`, Masukan element `lista = [1, 2] setelah 6, 7
-`listb.append("Timey")`, Menambahkan `listb` dengan nilai string `"Timey"`
-
-`listN = listA + listb`, Menggabungkan `lista` & `listb` dengan membuat list baru `listN`
 
 ## Hasil program
 
