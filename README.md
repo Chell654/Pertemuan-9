@@ -103,7 +103,7 @@ print("Gabungan listA & ListB: \n", listN)
 
 `listN = listA + listb`, Menggabungkan `lista` & `listb` dengan membuat list baru `listN`
 
-## Hasil program 
+## Hasil program
 
 <img src="gambar/gambar 1.png">
 
